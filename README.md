@@ -31,9 +31,4 @@ Build in release
 # Credit
 - Updated And Created By XIFI
 - Pockaking Original Repository -> [Repository](https://github.com/Pocakking/BigBaseV2)
-
-# Screen Shot
-
-![](assets/console.png)
-![](assets/list-ui.png)
-![](assets/clicks-ui.png)
+- 
